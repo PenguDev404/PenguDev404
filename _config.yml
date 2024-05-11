@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: My Homepage
+author: Pengu
+description: Just my site
