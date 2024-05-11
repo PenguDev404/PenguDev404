@@ -1,11 +1,6 @@
 # About me
 
-
-
-
-
-
-- 🔭 I’m currently at University of Engineering and Technology.
+- 🔭 I’m currently studying at University of Engineering and Technology.
 - 🌱 I’m currently learning Web Development and AI.
 - 👯 I’m looking to collaborate on Web Development project.
 - 🤔 I’m looking for help with my career.
