@@ -3,7 +3,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently at University of Engineering and Technology.
 - 🌱 I’m currently learning Web Development and AI.
