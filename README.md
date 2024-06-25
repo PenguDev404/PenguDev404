@@ -1,7 +1,7 @@
 # About me
 
 - 🔭 I’m currently studying at University of Engineering and Technology.
-- 🌱 I’m currently learning Web Development and AI.
+- 🌱 I’m currently learning Web Development and Cyber Security.
 - 👯 I’m looking to collaborate on Web Development project.
 - 🤔 I’m looking for help with my career.
 - 💬 Ask me about Computer Hardware, Linux and Technologies.
